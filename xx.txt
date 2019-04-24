@@ -5,3 +5,9 @@ this is a new unconflict line
 bojan was here
 
 each one is right
+Ales wroti in xx.txt
+
+
+i take both again
+
+and say hello
