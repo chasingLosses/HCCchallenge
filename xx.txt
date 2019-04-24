@@ -5,7 +5,7 @@ this is a new unconflict line
 bojan was here
 
 each one is right
-Ales wroti in xx.txt
+Ales wrote in xx.txt => Fixed a typo
 
 
 i take both again
