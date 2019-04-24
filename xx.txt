@@ -1,4 +1,7 @@
 s is a test
 
 i againchanged this is a new unconflict line
+this is a new unconflict line
+bojan was here
 
+each one is right
