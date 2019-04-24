@@ -2,3 +2,5 @@ s is a test
 
 this is a new unconflict line
 bojan was here
+
+Ales wroti in xx.txt
